@@ -66,12 +66,12 @@ Current balance: $80
 
 ## 🧠 Features
 
-✅ Built with **Java 8**
-✅ Randomized spin results using Java’s `Random` class
-✅ Input validation for bet amounts
-✅ Simple console UI with emojis
-✅ Progressive balance system
-✅ Multiple symbol types and tiered payouts
+* Built with **Java 8**
+* Randomized spin results using Java’s `Random` class
+* Input validation for bet amounts
+* Simple console UI with emojis
+* Progressive balance system
+* Multiple symbol types and tiered payouts
 
 ---
 
@@ -88,6 +88,7 @@ Current balance: $80
    ```bash
    java Main
    ```
+
 ---
 Enjoy your spins — and may the 🍰 be with you! 🎰
 ---
