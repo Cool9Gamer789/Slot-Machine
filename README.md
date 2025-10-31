@@ -88,20 +88,6 @@ Current balance: $80
    ```bash
    java Main
    ```
-
 ---
-
-## 🚀 Future Improvements (Optional Ideas)
-
-* Add **jackpot or bonus rounds**
-* Save player balance between sessions
-* Create a **GUI version** using JavaFX or Swing
-* Add sound effects and animations for spins
-
----
-
 Enjoy your spins — and may the 🍰 be with you! 🎰
-
 ---
-
-Would you like me to make it formatted with emojis and section dividers (like a modern GitHub-style README) for extra polish?
